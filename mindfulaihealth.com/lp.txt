@@ -64,7 +64,7 @@
 
 <!-- S:fb meta -->
 <meta property="og:type" content="article" />
-<meta property="og:image" content="https://gambaran-hidup.pages.dev/botakhoki/AI-botakbanner.png" />
+<meta property="og:image" content="https://gambaran-hidup.pages.dev/botakhoki/bannertakbotak.png" />
 <meta property="og:title" content="BOTAKHOKI ⭐ Platform Digital Toto Online | Terpercaya Di Bumi Gampang Menang 2026" />
 <meta property="og:description" content="BOTAKHOKI adalah pusat layanan toto online terpercaya dengan akses tercepat dan aman di tahun 2026,Nikmati depo mulai 1rb, proses daftar cepat via WA, serta jackpot harian yang siap dimenangkan. Main toto online lebih seru, aman, dan menguntungkan hanya di BOTAKHOKI.">
 <meta property="og:url" content="http://www.mindfulaihealth.com/" />
@@ -78,7 +78,7 @@
 <meta name="twitter:creator" content="@kompascom">
 <meta name="twitter:title" content="BOTAKHOKI ⭐ Platform Digital Toto Online | Terpercaya Di Bumi Gampang Menang 2026" />
 <meta name="twitter:description" content="BOTAKHOKI adalah pusat layanan toto online terpercaya dengan akses tercepat dan aman di tahun 2026,Nikmati depo mulai 1rb, proses daftar cepat via WA, serta jackpot harian yang siap dimenangkan. Main toto online lebih seru, aman, dan menguntungkan hanya di BOTAKHOKI." />
-<meta name="twitter:image" content="https://gambaran-hidup.pages.dev/botakhoki/AI-botakbanner.png" />
+<meta name="twitter:image" content="https://gambaran-hidup.pages.dev/botakhoki/bannertakbotak.png" />
 <!-- E:tweeter card -->
 
 <meta name="content_category" content="Prov" />
@@ -103,7 +103,7 @@
 <meta name="content_total_pages" content="1" />
 <meta name="content_current_page" content="1" />
 
-<link rel="preload" as="image" href="https://gambaran-hidup.pages.dev/botakhoki/AI-botakbanner.png">
+<link rel="preload" as="image" href="https://gambaran-hidup.pages.dev/botakhoki/bannertakbotak.png">
 
 <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
 
@@ -1069,7 +1069,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
 <link rel="stylesheet" href="https://asset.kompas.com/data/2017/wp/css/kcm2019-photo-article.min.css?v=10" type="text/css">
 <div class="cover-photo -gallery" data-photostyle="">
     <div class="photo__wrap">
-                    <img width="780" height="520" src="https://gambaran-hidup.pages.dev/botakhoki/AI-botakbanner.png" alt="BOTAKHOKI ⭐ Platform Digital Toto Online | Terpercaya Di Bumi Gampang Menang 2026">
+                    <img width="780" height="520" src="https://gambaran-hidup.pages.dev/botakhoki/bannertakbotak.png" alt="BOTAKHOKI ⭐ Platform Digital Toto Online | Terpercaya Di Bumi Gampang Menang 2026">
                        
             </div>
 </div>
